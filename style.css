@@ -1,0 +1,20 @@
+body{
+   background:linear-gradient(rgb(124, 222, 255),rgb(255, 117, 227));
+}
+.header{
+    width: 100%;
+    background-color: indigo;
+    color: aliceblue;
+    height: 15%;
+    position: fixed;
+    
+
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+canvas{
+   width: 500px;
+    background: lightpink;
+    height: 500px;
+}
